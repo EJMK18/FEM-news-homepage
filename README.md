@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Github project files](https://github.com/EJMK18/FEM-news-homepage)
+- [FEM-news-homepage live site](https://ejmk18.github.io/FEM-news-homepage/)
 
 ## My process
 
@@ -54,7 +54,7 @@ I am well aware that I still have a long way to go to learn the fundamentals of 
 
 ### Useful resources
 
-- [Example resource 1](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA) - This introduced me to some of the ARIA attributes, which aided with the JS code implemented.
+- [MDN - ARIA](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA) - This introduced me to some of the ARIA attributes, which aided with the JS code implemented.
 
 ## Author
 
